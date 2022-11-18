@@ -1,6 +1,6 @@
 FROM tomcat:latest
 
-MAINTAINER Amit Kumar Gupta
+MAINTAINER sundar
 
 COPY ./webapp.war /usr/local/tomcat/webapps
 
